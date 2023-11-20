@@ -4,7 +4,7 @@
 
 
 <p align="center">🌱 I’m currently learning <b>Fullstack Development</b></p>
-<p align="center">💬 Ask me about <b>Frontend Development</b></p>
+<p align="center">💬 Ask me about <b>Software Development</b></p>
 <p align="center">📫 How to reach me <b>yalcin.coding@gmail.com</b></p>
 
 <br>
