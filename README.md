@@ -29,4 +29,4 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
-<--! [![YalcinKurt89's GitHub | Languages Over Time](https://stats.quine.sh/YalcinKurt89/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=YalcinKurt89) -->
+<!-- [![YalcinKurt89's GitHub | Languages Over Time](https://stats.quine.sh/YalcinKurt89/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=YalcinKurt89) -->
