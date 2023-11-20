@@ -30,3 +30,9 @@
 </div>
 
 <!-- [![YalcinKurt89's GitHub | Languages Over Time](https://stats.quine.sh/YalcinKurt89/languages-over-time?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=YalcinKurt89) -->
+
+<div align="center">
+  
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+</div>
