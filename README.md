@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yalcin Kurt</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate Software Developer from Germany</h3>
 
 
 <p align="center">🌱 I’m currently learning <b>Fullstack Development</b></p>
