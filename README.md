@@ -17,8 +17,8 @@
 
 
 ### Frontend-Entwicklung:
-| [](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br>JavaScript |
-|----|
+| [](https://developer.mozilla.org/en-US/docs/Web/JavaScript) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br>JavaScript | []() <img src="" alt="jquery" width="40 height="40"">
+|----|----|
 
 
 
