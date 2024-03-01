@@ -5,8 +5,8 @@
 
 
 
-| 🌱 I’m currently learning **Fullstack Development** <br><br> 💬 Ask me about **Software Development** <br><br> 📫 Here you can reach me **yalcin.coding@gmail.com** | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-|:----|----|
+| 🌱 I’m currently learning **Fullstack Development** <br><br> 💬 Ask me about **Software Development** <br><br> 📫 Here you can reach me **yalcin.coding@gmail.com** |
+|:----|
 
 
 
