@@ -5,8 +5,8 @@
 
 
 
-| 🌱 I’m currently learning **Fullstack Development** <br><br> 💬 Ask me about **Software Development** <br><br> 📫 Here you can reach me **yalcin.coding@gmail.com** |
-|:----|
+🌱 I’m currently learning **Fullstack Development** <br><br> 💬 Ask me about **Software Development** <br><br> 📫 Here you can reach me **yalcin.coding@gmail.com**
+
 
 
 
