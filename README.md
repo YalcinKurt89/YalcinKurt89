@@ -1,6 +1,6 @@
 
 ## Hello and welcome 👋 I'm Yalcin Kurt
-### A passionate Software Developer from Germany
+### A passionate IT specialist for application development
 
 
 
